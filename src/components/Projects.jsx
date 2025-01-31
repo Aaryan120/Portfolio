@@ -27,8 +27,8 @@ const Projects = () => {
           title: 'PortFolio',
           desc: '',
           image: portfolio,
-          live: "https://youtube-clone-93300.netlify.app/",
-          github: "https://github.com/rohitsingh93300/YouTube-clone"
+          live: "https://portfolio-zeta-nine-32.vercel.app/",
+          github: "https://github.com/Aaryan120/Portfolio"
         },
         {
           title: 'Toddle_Wall',
