@@ -4,7 +4,7 @@ import studynotion from  '../assets/studynotion.png'
 import Twitter_trends from "../assets/Twitter-Trends-Scraper.png"
 import ToddleImage from "../assets/ToddleImg.png"
 import commingSoon from "../assets/comingsoon.jpeg"
-
+import portfolio from "../assets/portfolio.png"
 
 const Projects = () => {
 
@@ -26,7 +26,7 @@ const Projects = () => {
         {
           title: 'PortFolio',
           desc: '',
-          image: commingSoon,
+          image: portfolio,
           live: "https://youtube-clone-93300.netlify.app/",
           github: "https://github.com/rohitsingh93300/YouTube-clone"
         },
