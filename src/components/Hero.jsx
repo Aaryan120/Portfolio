@@ -19,7 +19,7 @@ const Hero = () => {
                <h1 className='lg:text-7xl text-4xl font-bold lg:leading-snug'>Hi There, <br />I'm Raj <span className='text-red-500'>Aryan</span></h1>
                <p className='md:text-2xl text-xl mb-4'>Web Developer & Designer</p>
                <p className='mb-4'>I'm a passionate web developer with expertise in React, Next.js, and modern web technologies. I love creating beautiful and functional website that solve real world problems.</p>
-               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="https://drive.google.com/file/d/1sVyZQWe3Dfv75B9YuzBNGr5mjlqfI8b8/view?usp=sharing" download target='_blank'>Download CV</a></button>
+               <button className='bg-black text-white px-3 py-2 w-max rounded-md'><a href="https://drive.google.com/file/d/1GvSUWAVtNov1fZg2_RT2wVy9SiUynrIZ/view?usp=sharing" download target='_blank'>Download CV</a></button>
             </div>
             <div className='md:w-1/2 relative flex justify-center items-end'>
                  <img src={hero} alt="" className='lg:h-[90vh] h-96' />

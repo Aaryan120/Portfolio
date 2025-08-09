@@ -3,7 +3,7 @@ import Cards from './Cards'
 import studynotion from  '../assets/studynotion.png'
 import Twitter_trends from "../assets/Twitter-Trends-Scraper.png"
 import ToddleImage from "../assets/ToddleImg.png"
-import commingSoon from "../assets/comingsoon.jpeg"
+import landingPage from "../assets/landing_page.png"
 import portfolio from "../assets/portfolio.png"
 
 const Projects = () => {
@@ -38,11 +38,11 @@ const Projects = () => {
           github: "https://github.com/Aaryan120/Toddle_wall"
         },
         {
-          title: 'LostAndFoundBIT',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
-          image: commingSoon,
-          live: "#",
-          github: "#"
+          title: 'OneBITstop',
+          desc: 'OneBITstop is a platform that gives students the access to lost&found, carpooling, market place, and attendance tracker in one place.',
+          image: landingPage,
+          live: "https://one-bit-stop.vercel.app/",
+          github: "https://github.com/Aaryan120/OneBITstop"
         },
       ];
 

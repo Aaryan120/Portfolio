@@ -10,7 +10,6 @@ import Bootstrap from '../assets/Bootstrap.png'
 import NodeLogo from '../assets/NodeLogo.png'
 import Mongodb from '../assets/mongodb.svg'
 import Express from '../assets/Express.png'
-import NextJs from '../assets/NextJs.png'
 
 const About = () => {
     return (
@@ -29,7 +28,7 @@ const About = () => {
                             <div>
                                 <h3 className='text-2xl font-semibold text-gray-900'>My Journey</h3>
                                 <p className='mt-4 text-lg text-gray-600'>
-                                I am a dedicated full-stack developer with a strong foundation in the MERN stack, backend development, and API design. Passionate about building scalable and efficient web applications, I have developed projects like StudyNotion, an ed-tech platform connecting learners and instructors, and a news-scraping risk analysis system leveraging machine learning. With over 500+ problems solved on LeetCode, I thrive on problem-solving and optimization. Open to collaborative opportunities, I aim to create impactful digital solutions.
+                                I am a dedicated full-stack developer with strong expertise in the MERN stack, backend architecture, and scalable API design. At AutoCRUD, a US-based startup, I have built core automation and integration features using React, TypeScript, and Framer Motion. My projects include OneBITstop, a campus utility platform, and StudyNotion, a role-based EdTech platform with secure auth and payment integration. With 700+ LeetCode and 300+ GeeksforGeeks problems solved, I thrive on problem-solving and optimization. Open to collaborative opportunities, I aim to create impactful digital solutions.
                                 </p>
                                 <img src={MernStack} alt="" className='p-2 rounded-lg w-52 mt-4' />
                             </div>
@@ -75,10 +74,6 @@ const About = () => {
                                     <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
                                         <img src={Express} alt="" className='w-10' />
                                         <span className='font-semibold'>Express Js</span>
-                                    </div>
-                                    <div className='border border-red-300 flex items-center gap-1 w-max px-2 py-1 rounded-lg shadow-md shadow-red-300'>
-                                        <img src={NextJs} alt="" className='w-9' />
-                                        <span className='font-semibold'>Next Js</span>
                                     </div>
                                 </div>
                             </div>
