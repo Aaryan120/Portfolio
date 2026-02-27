@@ -7,7 +7,7 @@ import Projects from './components/Projects'
 // import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-
+// NEw comment added for testing
 const App = () => {
   return (
     <>
