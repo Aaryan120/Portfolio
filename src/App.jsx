@@ -9,6 +9,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 // New comment added for testing 2
+// New comment for testing merge conflict from main
 const App = () => {
   return (
     <>
